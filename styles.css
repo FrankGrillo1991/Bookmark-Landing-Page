@@ -39,3 +39,21 @@ button#addBookmark {
     font-weight: 600;
     margin-left: 6px;
 }
+
+button#addBookmark:hover {
+    background-color: #160af3;
+}
+
+button#deleteAll {
+    background-color: #ff6347;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    margin-left: 10px;
+    font-weight: 600;
+}
+
+button#deleteAll:hover {
+    background-color: #f80404;
+}
