@@ -19,3 +19,13 @@ main {
     margin: 0 auto;
     padding: 20px;
 }
+
+.bookmark-form {
+    display: flex;
+    margin-bottom: 10px;
+}
+
+input[type="url"] {
+    flex: 1;
+    padding: 10px;
+}
